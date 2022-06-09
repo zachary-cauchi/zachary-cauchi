@@ -13,3 +13,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary-cauchi&show_icons=true&theme=dark&locale=en&layout=compact" alt="zachary-cauchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
+
+![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](images/github-contribution-grid-snake.svg#gh-dark-mode-only)
