@@ -1,6 +1,8 @@
 name: Produce Hot Repos List
 
 on:
+  push:
+  
   # allows to manually run the job at any time
   workflow_dispatch:
 
