@@ -1,0 +1,26 @@
+name: Produce Hot Repos List
+
+on:
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+
+jobs:
+  hot-repos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: checkout master
+        uses: actions/checkout@v3
+        
+      - name: Get Hot Repos
+        uses: zachary-cauchi/github-action-hot-repos@v1
+        id: get-repos
+      
+      - name: Save to file
+        run: |
+          cat > hot-repos.json <<-
+            ${{ steps.get-repos.outputs.topRepos }}
+          
+          cat hot-repos.json
