@@ -15,23 +15,3 @@ jobs:
     steps:
       - name: checkout master
         uses: actions/checkout@v3
-        
-      - name: Get Hot Repos
-        id: get-repos
-        uses: zachary-cauchi/github-action-hot-repos@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          mdFilepath: hot-repos.md
-          mdHeader: '## My latest repo activity'
-
-      - name: Append new changes to readme.
-        run: |
-          #!/bin/bash
-          search_text='![](replace-with-hot-repos)'
-          value=$(<hot-repos.md)
-          echo "Adding the following to README.md"
-          echo "$value"
-
-          echo "Replacing '$search_text' in README.md"
-
-          sed -i 's/$search_text/$value/' README.md
