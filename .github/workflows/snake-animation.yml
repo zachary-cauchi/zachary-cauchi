@@ -37,12 +37,12 @@ jobs:
 
       - name: Append new changes to readme.
         run: |
-          search_text='!\[\]\(replace-with-hot-repos\)'
+          search_text='![](replace-with-hot-repos)'
           value=$(<hot-repos.md)
           echo "Adding hot-repos.md to README.md"
 
           echo "Replacing '$search_text' in README.md"
-          sed -i 's/$search_text/$value/' README.md
+          sed -i 's|$search_text|$value|' README.md
 
           cat README.md
 
