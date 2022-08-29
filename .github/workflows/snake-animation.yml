@@ -44,6 +44,8 @@ jobs:
           echo "Replacing '$search_text' in README.md"
           sed -i 's/$search_text/$value/' README.md
 
+          cat README.md
+
       - uses: EndBug/add-and-commit@v9
         with:
           add: '[images, README.md]'
