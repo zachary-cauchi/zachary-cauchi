@@ -37,7 +37,7 @@ jobs:
 
       - name: Append new changes to readme.
         run: |
-          search_text='![](replace-with-hot-repos)'
+          search_text='<p id="hot-repos"><\/p>'
           value=$(<hot-repos.md)
           echo "Adding hot-repos.md to README.md"
 
