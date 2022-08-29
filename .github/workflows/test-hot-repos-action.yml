@@ -28,7 +28,7 @@ jobs:
         run: |
           #!/bin/bash
           search_text='![](replace-with-hot-repos)'
-          value=$(<hot-repos.json)
+          value=$(<hot-repos.md)
           echo "Adding the following to README.md"
           echo "$value"
 
