@@ -34,4 +34,4 @@ jobs:
 
           echo "Replacing '$search_text' in README.md"
 
-          sed -i 's/$search_text/$value' README.md
+          sed -i 's/$search_text/$value/' README.md
