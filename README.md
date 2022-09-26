@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2022-09-19)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #33 from zachary-cauchi/dependabot/npm_and_yarn/eslint-8.23.1](https://github.com/zachary-cauchi/github-action-hot-repos/commit/fc6bb7c9bb95f25e65a36e359b8ac2a07c8fc6d8))
+## My latest repo activity (2022-09-26)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #37 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.38.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/f5dd80f55097ee841d025e2fbd4fea3c8d017693))
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 * [angular-sample-todo-app](https://github.com/zachary-cauchi/angular-sample-todo-app) ([feat: add tests to edit-in-place component](https://github.com/zachary-cauchi/angular-sample-todo-app/commit/f7cec8d155142447a859c06fdd8327d673bd1b7c))
 * [github-profile-readme-generator](https://github.com/zachary-cauchi/github-profile-readme-generator) ([Merge pull request #568 from rahuldkjain/hotfix/skills](https://github.com/zachary-cauchi/github-profile-readme-generator/commit/888aff31e1d26dd2a6acf6afebbc34970aeb0118))
