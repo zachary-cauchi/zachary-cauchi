@@ -14,12 +14,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2022-10-10)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #56 from zachary-cauchi/dependabot/npm_and_yarn/types/node-18.8.3](https://github.com/zachary-cauchi/github-action-hot-repos/commit/94806f9b5437aff72560be223430049e2d2cf83c))
+## My latest repo activity (2022-10-17)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #62 from zachary-cauchi/dependabot/github_actions/actions/setup-node-3.5.1](https://github.com/zachary-cauchi/github-action-hot-repos/commit/d5d7c46178437352b0cf2403e05039f98d20a5b1))
+* [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 * [angular-sample-todo-app](https://github.com/zachary-cauchi/angular-sample-todo-app) ([feat: add tests to edit-in-place component](https://github.com/zachary-cauchi/angular-sample-todo-app/commit/f7cec8d155142447a859c06fdd8327d673bd1b7c))
 * [github-profile-readme-generator](https://github.com/zachary-cauchi/github-profile-readme-generator) ([Merge pull request #568 from rahuldkjain/hotfix/skills](https://github.com/zachary-cauchi/github-profile-readme-generator/commit/888aff31e1d26dd2a6acf6afebbc34970aeb0118))
-* [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Fix description of Enceladus' cryovolcanoes](https://github.com/zachary-cauchi/RealSolarSystem/commit/24f40acc1eb6928dcae15df1bcddfe007654e74f))
 
 ![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](images/github-contribution-grid-snake.svg#gh-dark-mode-only)
