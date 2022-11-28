@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2022-11-21)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #84 from zachary-cauchi/dependabot/npm_and_yarn/typescript-4.9.3](https://github.com/zachary-cauchi/github-action-hot-repos/commit/1d189e316db2f312f1aa44460c85aa1671b16610))
+## My latest repo activity (2022-11-28)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #88 from zachary-cauchi/dependabot/npm_and_yarn/eslint-plugin-jest-27.1.6](https://github.com/zachary-cauchi/github-action-hot-repos/commit/29b4c4bb41bbd40b7e7f87cbeaa26c5cd630db0c))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #49 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/glob-parent-and-feathersjs/cli-5.1.2](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/921b95d57a39b12e84137388cbe4f38387cf9217))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
