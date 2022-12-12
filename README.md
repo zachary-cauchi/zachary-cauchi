@@ -14,9 +14,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2022-12-05)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #90 from zachary-cauchi/dependabot/npm_and_yarn/types/node-18.11.10](https://github.com/zachary-cauchi/github-action-hot-repos/commit/a7db118542dd035087b6efbd6741758595cf1e33))
-* [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #51 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/engine.io-and-socket.io-3.6.1](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/3f6dea30226d6ea4c51f3159d827f89f81a100bb))
+## My latest repo activity (2022-12-12)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #99 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.46.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/07b7ce867401af4ee11a5dd5ba230cb1d91bf8d6))
+* [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #54 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/decode-uri-component-0.2.2](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/f8f3976a49ce54a59682d47b9db844850e56ae3f))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 * [angular-sample-todo-app](https://github.com/zachary-cauchi/angular-sample-todo-app) ([feat: add tests to edit-in-place component](https://github.com/zachary-cauchi/angular-sample-todo-app/commit/f7cec8d155142447a859c06fdd8327d673bd1b7c))
