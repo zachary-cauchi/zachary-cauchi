@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2023-01-30)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #123 from zachary-cauchi/dependabot/npm_and_yarn/vercel/ncc-0.36.1](https://github.com/zachary-cauchi/github-action-hot-repos/commit/a135a1d5567652808be1d8537d2d64cb0637aa2f))
+## My latest repo activity (2023-02-06)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #126 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.50.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/85b5d2626a5a2f187804799dec4b8e3d63b1d69c))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #58 from zachary-cauchi/dependabot/npm_and_yarn/json5-2.2.3](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/94c86b796af6a700ccfa43e016f920ed66cf37cb))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
