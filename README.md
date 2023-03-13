@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2023-03-06)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #141 from zachary-cauchi/dependabot/npm_and_yarn/types/node-18.14.5](https://github.com/zachary-cauchi/github-action-hot-repos/commit/337b35944e959bb02971b20e4f470e176db04e4c))
+## My latest repo activity (2023-03-13)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #144 from zachary-cauchi/dependabot/npm_and_yarn/types/node-18.15.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/a22728e79af6e52e1171382ce320b531fd0066b3))
 * [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #58 from zachary-cauchi/dependabot/npm_and_yarn/json5-2.2.3](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/94c86b796af6a700ccfa43e016f920ed66cf37cb))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
