@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2023-04-10)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #160 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.57.1](https://github.com/zachary-cauchi/github-action-hot-repos/commit/c4273c4b5b502abc0557a52a08302ce231e810f5))
+## My latest repo activity (2023-04-17)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #162 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.58.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/192314d26ad7b70c2d8a31b7764046c19f1b6e3a))
 * [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #58 from zachary-cauchi/dependabot/npm_and_yarn/json5-2.2.3](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/94c86b796af6a700ccfa43e016f920ed66cf37cb))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
