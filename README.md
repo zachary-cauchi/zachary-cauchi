@@ -14,8 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2023-06-19)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #200 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.59.11](https://github.com/zachary-cauchi/github-action-hot-repos/commit/7e6d92997635a3d7c1feecc805a1e3abf7afeafb))
+## My latest repo activity (2023-06-26)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #203 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.60.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/c81de45a7aab54ebbdbc622ad3e19f29a9d6d331))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #66 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/got-and-nodemon--removed](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/51965e58079033fe13e3edc7568095149de585af))
 * [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
