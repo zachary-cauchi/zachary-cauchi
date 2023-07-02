@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my slice of Github Pie 🥧👋</h1>
 <h3 align="center">Tools, demos, and code katas 🥋</h3>
 <h6 align="center">📫 How to reach me: <a href="mailto:zach.cauchi@hotmail.com">zach.cauchi@hotmail.com</a></h6>
+<h6 align="center">👔 Find out more at <a href="https://zachary-cauchi.github.io" target="_blank">zachary-cauchi.github.io</a></h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
