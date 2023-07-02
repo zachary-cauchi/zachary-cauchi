@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my slice of Github Pie 🥧👋</h1>
 <h3 align="center">Tools, demos, and code katas 🥋</h3>
 <h6 align="center">📫 How to reach me: <a href="mailto:zach.cauchi@hotmail.com">zach.cauchi@hotmail.com</a></h6>
+<h6 align="center">👔 Find out more at <a href="https://zachary-cauchi.github.io" target="_blank">zachary-cauchi.github.io</a></h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,12 +15,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary-cauchi&show_icons=true&theme=dark&locale=en" alt="zachary-cauchi" /></p>
 
-## My latest repo activity (2023-06-26)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #203 from zachary-cauchi/dependabot/npm_and_yarn/typescript-eslint/parser-5.60.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/c81de45a7aab54ebbdbc622ad3e19f29a9d6d331))
+## My latest repo activity (2023-07-02)
+* [CPS5124-assignment-1](https://github.com/zachary-cauchi/CPS5124-assignment-1) ([Merge pull request #6 from zachary-cauchi/feature/writeup-and-gallery](https://github.com/zachary-cauchi/CPS5124-assignment-1/commit/188cc67b6c509ad3fb59f3deacb44fab8883d6bf))
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #206 from zachary-cauchi/dependabot/github_actions/dependabot/fetch-metadata-1.6.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/51fa7f2d5259fde08f52dd50e93a3f5b9581d1a9))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #66 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/got-and-nodemon--removed](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/51965e58079033fe13e3edc7568095149de585af))
 * [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
-* [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 
 ![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](images/github-contribution-grid-snake.svg#gh-dark-mode-only)
