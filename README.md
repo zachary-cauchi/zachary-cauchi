@@ -40,8 +40,8 @@
 </p>
 
 ## My latest repo activity ()
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #213 from zachary-cauchi/dependabot/npm_and_yarn/tough-cookie-4.1.3](https://github.com/zachary-cauchi/github-action-hot-repos/commit/850225ea3b12bc751bfc92f1d4538403b732e39d))
 * [CPS5124-assignment-1](https://github.com/zachary-cauchi/CPS5124-assignment-1) ([Merge pull request #6 from zachary-cauchi/feature/writeup-and-gallery](https://github.com/zachary-cauchi/CPS5124-assignment-1/commit/188cc67b6c509ad3fb59f3deacb44fab8883d6bf))
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #206 from zachary-cauchi/dependabot/github_actions/dependabot/fetch-metadata-1.6.0](https://github.com/zachary-cauchi/github-action-hot-repos/commit/51fa7f2d5259fde08f52dd50e93a3f5b9581d1a9))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #66 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/got-and-nodemon--removed](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/51965e58079033fe13e3edc7568095149de585af))
 * [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
 * [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
