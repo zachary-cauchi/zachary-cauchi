@@ -3,8 +3,8 @@ name: Regenerate README
 on:
   # run automatically every Monday
   schedule:
-    - cron: "0 0 * * 1" 
-  
+    - cron: "0 0 * * 1"
+
   # allows to manually run the job at any time
   workflow_dispatch:
 
@@ -13,15 +13,15 @@ jobs:
   generate-readme:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Checkout workspace
         uses: actions/checkout@v3
-      
+
       - name: Get current date
         id: date
         run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
-        
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2.2.0
@@ -30,10 +30,10 @@ jobs:
           outputs: |
             images/github-contribution-grid-snake.svg
             images/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
+
       - name: Get Latest public repo activity
         id: get-repos
-        uses: zachary-cauchi/github-action-hot-repos@v2
+        uses: zachary-cauchi/github-action-hot-repos@v2.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           mdFilepath: hot-repos.md
