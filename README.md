@@ -40,11 +40,14 @@
 </p>
 
 ## My latest repo activity ()
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #213 from zachary-cauchi/dependabot/npm_and_yarn/tough-cookie-4.1.3](https://github.com/zachary-cauchi/github-action-hot-repos/commit/850225ea3b12bc751bfc92f1d4538403b732e39d))
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #271 from zachary-cauchi/feature/update-package-deps](https://github.com/zachary-cauchi/github-action-hot-repos/commit/b90a12ec1d9de7a00cdca1235f570686916cd4e3))
+* [exchangerates-microservice-assignment](https://github.com/zachary-cauchi/exchangerates-microservice-assignment) ([feat: update readme](https://github.com/zachary-cauchi/exchangerates-microservice-assignment/commit/2427aee3b64bb30bcf9075f145c8a267c8ab20fd))
 * [CPS5124-assignment-1](https://github.com/zachary-cauchi/CPS5124-assignment-1) ([Merge pull request #6 from zachary-cauchi/feature/writeup-and-gallery](https://github.com/zachary-cauchi/CPS5124-assignment-1/commit/188cc67b6c509ad3fb59f3deacb44fab8883d6bf))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #66 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/got-and-nodemon--removed](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/51965e58079033fe13e3edc7568095149de585af))
-* [RealSolarSystem](https://github.com/zachary-cauchi/RealSolarSystem) ([Update en-us.cfg](https://github.com/zachary-cauchi/RealSolarSystem/commit/6b995a9039f032ac88104722261e33735291dc3e))
-* [PS2-Programming-Docs](https://github.com/zachary-cauchi/PS2-Programming-Docs) ([Merge pull request #1 from zachary-cauchi/calling-conventions](https://github.com/zachary-cauchi/PS2-Programming-Docs/commit/d5ebabb0efdf63009445b82737ee72501570562a))
+* [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 
-![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](images/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
