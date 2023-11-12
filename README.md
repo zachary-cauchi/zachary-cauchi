@@ -47,7 +47,7 @@
 * [dotnet-practice-movie-database](https://github.com/zachary-cauchi/dotnet-practice-movie-database) ([feat: add grain storage of table-fetched movies if grain not found](https://github.com/zachary-cauchi/dotnet-practice-movie-database/commit/020632d9a3404ee7ba92e00d0ad2a5776717bce5))
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
 </picture>
