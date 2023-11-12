@@ -41,5 +41,8 @@
 
 <p id="hot-repos"></p>
 
-![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](images/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>

@@ -24,12 +24,13 @@ jobs:
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2.2.0
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             images/github-contribution-grid-snake.svg
             images/github-contribution-grid-snake-dark.svg?palette=github-dark
+            images/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Get Latest public repo activity
         id: get-repos
