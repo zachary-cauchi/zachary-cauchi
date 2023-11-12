@@ -20,10 +20,12 @@ jobs:
 
       - name: Get current date
         id: current-date
-        run: echo "{date}={$(date +%Y-%m-%d)}" >> $GITHUB_OUTPUT
+        uses: Kaven-Universe/github-action-current-date-time@v1
+        with:
+          format: "YYYY_MM_DD"
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,13 +34,13 @@ jobs:
             images/github-contribution-grid-snake-dark.svg?palette=github-dark
             images/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Get Latest public repo activity
+      - name: Get latest public repo activity
         id: get-repos
         uses: zachary-cauchi/github-action-hot-repos@v2.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           mdFilepath: hot-repos.md
-          mdHeader: '## My latest repo activity (${{ steps.current-date.outputs.date }})'
+          mdHeader: '## My latest repo activity (${{ steps.current-date.outputs.time }})'
 
       - name: Create new README.md.
         run: |
