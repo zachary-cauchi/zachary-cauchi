@@ -39,8 +39,8 @@
   </picture>
 </p>
 
-## My latest repo activity (2023-12-11)
-* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #295 from zachary-cauchi/dependabot/npm_and_yarn/types/node-20.10.4](https://github.com/zachary-cauchi/github-action-hot-repos/commit/63c42eab876fd4182c32ed868c67105e0e91c1b1))
+## My latest repo activity (2023-12-18)
+* [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([Merge pull request #300 from zachary-cauchi/dependabot/github_actions/actions/upload-artifact-4](https://github.com/zachary-cauchi/github-action-hot-repos/commit/2af0a063a289361a35b3af768afa953d916d6d19))
 * [exchangerates-microservice-assignment](https://github.com/zachary-cauchi/exchangerates-microservice-assignment) ([feat: update readme](https://github.com/zachary-cauchi/exchangerates-microservice-assignment/commit/2427aee3b64bb30bcf9075f145c8a267c8ab20fd))
 * [CPS5124-assignment-1](https://github.com/zachary-cauchi/CPS5124-assignment-1) ([Merge pull request #6 from zachary-cauchi/feature/writeup-and-gallery](https://github.com/zachary-cauchi/CPS5124-assignment-1/commit/188cc67b6c509ad3fb59f3deacb44fab8883d6bf))
 * [feathersjs-personal-demo](https://github.com/zachary-cauchi/feathersjs-personal-demo) ([Merge pull request #66 from zachary-cauchi/dependabot/npm_and_yarn/2-app-gen/got-and-nodemon--removed](https://github.com/zachary-cauchi/feathersjs-personal-demo/commit/51965e58079033fe13e3edc7568095149de585af))
