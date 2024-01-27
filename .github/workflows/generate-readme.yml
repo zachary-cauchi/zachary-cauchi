@@ -36,7 +36,7 @@ jobs:
 
       - name: Get latest public repo activity
         id: get-repos
-        uses: zachary-cauchi/github-action-hot-repos@v2.1
+        uses: zachary-cauchi/github-action-hot-repos@v2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           mdFilepath: hot-repos.md
