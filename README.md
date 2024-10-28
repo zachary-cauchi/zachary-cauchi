@@ -39,7 +39,7 @@
   </picture>
 </p>
 
-## My latest repo activity (2024-10-21)
+## My latest repo activity (2024-10-28)
 * [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([fix: getting old repos instead of latest updated](https://github.com/zachary-cauchi/github-action-hot-repos/commit/8055aa6c789245483e2670dace390354a8ed0127))
 * [dissertation](https://github.com/zachary-cauchi/dissertation) ([fix: missing nas in figure title](https://github.com/zachary-cauchi/dissertation/commit/63eafa88f70e46e5fe36f74cbc2a7ac57b2aed5a))
 * [exchangerates-microservice-assignment](https://github.com/zachary-cauchi/exchangerates-microservice-assignment) ([feat: update readme](https://github.com/zachary-cauchi/exchangerates-microservice-assignment/commit/2427aee3b64bb30bcf9075f145c8a267c8ab20fd))
