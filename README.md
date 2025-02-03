@@ -39,7 +39,7 @@
   </picture>
 </p>
 
-## My latest repo activity (2025-01-27)
+## My latest repo activity (2025-02-03)
 * [flight-image-geotagger-rs](https://github.com/zachary-cauchi/flight-image-geotagger-rs) ([feat: Improve cli and dod parsing](https://github.com/zachary-cauchi/flight-image-geotagger-rs/commit/55a9a7759d5c77ca6256170396053d918fa58827))
 * [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([fix: getting old repos instead of latest updated](https://github.com/zachary-cauchi/github-action-hot-repos/commit/8055aa6c789245483e2670dace390354a8ed0127))
 * [dissertation](https://github.com/zachary-cauchi/dissertation) ([fix: missing nas in figure title](https://github.com/zachary-cauchi/dissertation/commit/63eafa88f70e46e5fe36f74cbc2a7ac57b2aed5a))
