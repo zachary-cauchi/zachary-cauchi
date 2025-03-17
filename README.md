@@ -39,12 +39,12 @@
   </picture>
 </p>
 
-## My latest repo activity (2025-03-10)
+## My latest repo activity (2025-03-17)
+* [esp-uart-server](https://github.com/zachary-cauchi/esp-uart-server) ([feat: Add instructions followed to gen project](https://github.com/zachary-cauchi/esp-uart-server/commit/33d2a40ca4bcac662c77b10984541046c18830d5))
 * [flight-image-geotagger-rs](https://github.com/zachary-cauchi/flight-image-geotagger-rs) ([feat: Improve cli and dod parsing](https://github.com/zachary-cauchi/flight-image-geotagger-rs/commit/55a9a7759d5c77ca6256170396053d918fa58827))
 * [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([fix: getting old repos instead of latest updated](https://github.com/zachary-cauchi/github-action-hot-repos/commit/8055aa6c789245483e2670dace390354a8ed0127))
 * [dissertation](https://github.com/zachary-cauchi/dissertation) ([fix: missing nas in figure title](https://github.com/zachary-cauchi/dissertation/commit/63eafa88f70e46e5fe36f74cbc2a7ac57b2aed5a))
 * [exchangerates-microservice-assignment](https://github.com/zachary-cauchi/exchangerates-microservice-assignment) ([feat: update readme](https://github.com/zachary-cauchi/exchangerates-microservice-assignment/commit/2427aee3b64bb30bcf9075f145c8a267c8ab20fd))
-* [CPS5124-assignment-1](https://github.com/zachary-cauchi/CPS5124-assignment-1) ([Merge pull request #6 from zachary-cauchi/feature/writeup-and-gallery](https://github.com/zachary-cauchi/CPS5124-assignment-1/commit/188cc67b6c509ad3fb59f3deacb44fab8883d6bf))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
