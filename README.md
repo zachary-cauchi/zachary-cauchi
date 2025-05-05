@@ -39,7 +39,7 @@
   </picture>
 </p>
 
-## My latest repo activity (2025-04-28)
+## My latest repo activity (2025-05-05)
 * [esp-uart-server](https://github.com/zachary-cauchi/esp-uart-server) ([feat: Add instructions followed to gen project](https://github.com/zachary-cauchi/esp-uart-server/commit/33d2a40ca4bcac662c77b10984541046c18830d5))
 * [flight-image-geotagger-rs](https://github.com/zachary-cauchi/flight-image-geotagger-rs) ([feat: Improve cli and dod parsing](https://github.com/zachary-cauchi/flight-image-geotagger-rs/commit/55a9a7759d5c77ca6256170396053d918fa58827))
 * [github-action-hot-repos](https://github.com/zachary-cauchi/github-action-hot-repos) ([fix: getting old repos instead of latest updated](https://github.com/zachary-cauchi/github-action-hot-repos/commit/8055aa6c789245483e2670dace390354a8ed0127))
