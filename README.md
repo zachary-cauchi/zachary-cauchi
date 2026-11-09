@@ -39,7 +39,7 @@
   </picture>
 </p>
 
-## My latest repo activity (2026-11-02)
+## My latest repo activity (2026-11-09)
 * [nur-packages](https://github.com/zachary-cauchi/nur-packages) ([throne: update srslist.h hash (#46)](https://github.com/zachary-cauchi/nur-packages/commit/baf74d98324ce70296954ebce0c90056f16bfbd6))
 * [esp-uart-server](https://github.com/zachary-cauchi/esp-uart-server) ([feat: Add instructions followed to gen project](https://github.com/zachary-cauchi/esp-uart-server/commit/33d2a40ca4bcac662c77b10984541046c18830d5))
 * [flight-image-geotagger-rs](https://github.com/zachary-cauchi/flight-image-geotagger-rs) ([feat: Improve cli and dod parsing](https://github.com/zachary-cauchi/flight-image-geotagger-rs/commit/55a9a7759d5c77ca6256170396053d918fa58827))
